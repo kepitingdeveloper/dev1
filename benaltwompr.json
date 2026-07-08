@@ -7,10 +7,19 @@
     },
 {
       "name": "City Template",
-      "image": "https://newlatesthomes.com/MCPE/MAPS/City%20Starter%20World%20Pack%20V1.3.zip",
-      "file": "https://my.mcpedl.com/storage/worlds/8133/images/minecraft-city-starter-world_6.png"
+      "image": "https://my.mcpedl.com/storage/worlds/8133/images/minecraft-city-starter-world_6.png",
+      "file": "https://newlatesthomes.com/MCPE/MAPS/City%20Starter%20World%20Pack%20V1.3.zip"
     },
-	  
+	  {
+      "name": "Minecraft, But My Friends Trapped Me In A Prison",
+      "image": "https://api.mcpedl.com/storage/submissions/142027/images/minecraft-but-my-friends-trapped-me-in-a-prison_4.jpeg",
+      "file": "https://newlatesthomes.com/MCPE/MAPS/Trapped%20Me%20In%20A%20Prison.zip"
+    },
+{
+      "name": "ReRoute's Highway World",
+      "image": "https://api.mcpedl.com/storage/submissions/155063/images/updated-thatonegamers-highway-world-v16_9.jpeg",
+      "file": "https://newlatesthomes.com/MCPE/MAPS/ReRoutes_Highway_World.zip"
+    },
 	{
       "name": "Omnitrix Alien Watch",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
